@@ -40,3 +40,5 @@ gem "paperclip"
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Use Sorcery for authentication
+gem 'sorcery'
